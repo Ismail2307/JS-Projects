@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.nig button img{
+    width: 100px;
+    height: 100px;
+}
+
+body{
+    padding-top: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.gameplay{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+
+img{
+    height: 100px;
+    width: 100px;
+}

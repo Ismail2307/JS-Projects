@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoneyType</title>
+    <link rel="stylesheet" href="./hello.css">
+</head>
+<body>
+    
+<div class="container">
+<h1>MoneyType</h1>
+
+<div class="settings">
+    <button class="btnWord"   data-count="10">10</button>
+    <button class="btnWord" data-count="20">20</button>
+    <button class="btnWord" data-count="30">30</button>
+</div>
+
+<div class="wordbox" >
+
+    <p id="lorem"></p>
+
+</div>
+
+<textarea id="input-box" placeholder="Start typing here..."></textarea>
+<p id="status"></p>
+
+
+<div class="stats" >
+    <h2>Time: <span id="time">0</span> s</h2>
+    <h2>WPM: <span id="wpm">0</span> words per minute</h2>
+</div>
+
+
+<button id="restart">Restart</button>
+
+</div>
+    <script src="./app.js"></script>
+</body>
+</html>

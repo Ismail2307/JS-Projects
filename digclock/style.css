@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    padding-top: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    background-color: white;
+}
+
+button{
+    padding-inline: 70px ;
+    padding-block: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    gap: 70px;
+    padding-top: 20rem ;
+}
+
+
+body h1{
+    font-size: 60px;
+}
+
+body button{
+    padding-inline: 50px;
+    padding-block: 20px;
+    font-size: 30px;
+    background-color: rgb(137, 203, 31);
+    border: none;
+    border-radius: 20px;
+}
