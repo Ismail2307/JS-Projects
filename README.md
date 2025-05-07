@@ -9,5 +9,5 @@
   <li>Quotly✍️(Quotes Generator)</li>
   <li>RockPaperScissors Game🪨🖇✂️</li>
   <li>Whack A Mock Game🎮</li>
-  <li>To Do App (No Storage)</li>
+  <li>To Do App (No Storage).</li>
 </ul>
