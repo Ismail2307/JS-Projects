@@ -10,5 +10,5 @@
   <li>RockPaperScissors Game🪨🖇✂️</li>
   <li>Whack A Mock Game🎮</li>
   <li>To Do App (No Storage)</li>
-  shoto
+  shotout to this 
 </ul>
